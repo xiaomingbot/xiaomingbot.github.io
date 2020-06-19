@@ -5,7 +5,7 @@ Xiaomingbot is an intelligent, multilingual and multimodal software robot equipp
 - News Generation
 - News Translation
 - News Reading 
-- Avatar animation
+- Avatar Animation
 
 ### News Generation
 
