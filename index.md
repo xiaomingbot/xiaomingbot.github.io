@@ -1,5 +1,3 @@
-## Xiaomingbot：A Multilingual Robot News Reporter
-
 Xiaomingbot is an intelligent, multilingual and multimodal software robot equipped with four integral capabilities: 
 
 - News Generation
