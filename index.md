@@ -1,3 +1,5 @@
+### Introduction
+
 Xiaomingbot is an intelligent, multilingual and multimodal software robot equipped with four integral capabilities: 
 
 - News Generation
