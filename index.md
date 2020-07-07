@@ -7,6 +7,10 @@ Xiaomingbot is an intelligent, multilingual and multimodal software robot equipp
 - News Reading 
 - Avatar Animation
 
+## Demo Video
+
+{% include youtubePlayer.html id="V51B44WHs98" %}
+
 ### News Generation
 
 Xiaomingbot takes a table as input，for example, a table that describes the score of each player in a soccer game.
@@ -36,10 +40,5 @@ The input sequence is the phoneme and the according duration drawn from the TTS 
 With these different mouth blendshape weights, Xiaomingbot can make a lot of different facial expressions.
 For other rendering, we use Unity and different algorithms like normal mapping.
 
-## Demo Video
-
-Here is our Demo Video.
-
-
-{% include youtubePlayer.html id="V51B44WHs98" %}
+### Our Paper
 
