@@ -26,6 +26,8 @@ Although it can already generate fluent translated news, some certain proper nou
 Therefore, Xiaomingbot also use named entity replacement mechanism, that is, directly replace the named entitie with its according translation.
 To accelerate the decoding process, we implement a faster CUDA-based NMT system, whose inference speed is ten times than tensorflow, and it can be found [Here](https://github.com/bytedance/byseqlib).
 
+![image](https://github.com/xiaomingbot/xiaomingbot.github.io/blob/master/IMG/nmt.png)
+
 ### News Reading
 
 With a small amount of recorded voice of a speaker in one language provided as training data, we can train a TTS model for Xiaomingbot.
@@ -39,6 +41,8 @@ For lip motion, we use a Seq2Seq model.
 The input sequence is the phoneme and the according duration drawn from the TTS model, and the ouput is a sequence of mouth blendshape weights.
 With these different mouth blendshape weights, Xiaomingbot can make a lot of different facial expressions.
 For other rendering, we use Unity and different algorithms like normal mapping.
+
+![image](https://github.com/xiaomingbot/xiaomingbot.github.io/blob/master/IMG/avatar.png)
 
 ### Our Paper
 
