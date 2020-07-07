@@ -34,6 +34,8 @@ With a small amount of recorded voice of a speaker in one language provided as t
 This TTS model has a cross-lingual voice cloning mechanism.
 In detail, after training, it can read news in different language with exactly the same voice as we provided before.
 
+![image](IMG/voice.png)
+
 ### Avatar Animation
 
 Xiaomingbot can generate lip motion synced with the audio synthesized by the TTS model, and render hairs, clothing, etc.
