@@ -14,6 +14,8 @@ That is, we have many different templates to generate sentences for the news.
 Every time Xiaomingbot generate a sentence, she randomly pick up a template and replace the placeholders with the according content in the input table.
 To generate the news abstract, Xiaomingbot use a BERT-based model to score sentences in the news and pick up those achieving high score to make up the final abstract.
 
+![image](IMG/generate.png)
+
 ### News Translation
 
 Xiaomingbot uses a Transformer-based machine translation model to translate the generated news in chinese into different languages, so that people around the world can read the news conveniently.
