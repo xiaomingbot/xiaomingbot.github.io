@@ -2,7 +2,7 @@
 
 Xiaomingbot is an automated system to generate and read news articles. It employs text generation algorithms to generate news from data and machine translation algorithms to translate the text into multiple languages. The system produces a visual avatar to read the news, with facial expression and lip motion synchronized with automatically generated voice.
 
-## Demo Video
+### Demo Video
 
 {% include youtubePlayer.html id="V51B44WHs98" %}
 
