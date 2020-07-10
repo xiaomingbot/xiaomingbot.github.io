@@ -23,7 +23,9 @@ Although it can already generate fluent translated news, some certain proper nou
 Therefore, Xiaomingbot also use named entity replacement mechanism, that is, directly replace the named entitie with its according translation.
 To accelerate the decoding process, we implement a faster CUDA-based NMT system, whose inference speed is ten times than tensorflow, and it can be found [Here](https://github.com/bytedance/byseqlib).
 
+
 ![image](IMG/nmt.png)
+
 
 ### News Reading
 
