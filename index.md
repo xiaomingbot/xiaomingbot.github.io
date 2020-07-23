@@ -66,7 +66,7 @@ You can find our paper [here](https://www.aclweb.org/anthology/2020.acl-demos.1.
           Li, Lei",
         booktitle = "Proceedings of the 58th Annual Meeting of the Association 
             for Computational Linguistics: System Demonstrations",
-        month = jul,
+        month = july,
         year = "2020",
         address = "Online",
         publisher = "Association for Computational Linguistics",
