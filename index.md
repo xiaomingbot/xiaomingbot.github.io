@@ -72,3 +72,7 @@ You can find our paper [here](https://www.aclweb.org/anthology/2020.acl-demos.1.
         publisher = "Association for Computational Linguistics",
         pages = "1--8"
     }
+   
+### Links
+
+Xiaomingbot News Reporter: [Link](https://www.toutiao.com/c/user/56059744188/#mid=1559844216802417)
